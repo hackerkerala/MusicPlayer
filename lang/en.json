@@ -10,7 +10,7 @@
     "notFound": "❌ | **Not Found, Try Again!**",
     "notActive": "❌ | **No Active Group Call!**",
     "notPlaying": "❌ | **Nothing Is Playing!**",
-    "playing": "▶️ **[%s](%s)\n⏱ Duration: `%s`\n💬 Playing On: `%s`\n🎧 Requested By: %s**",
+    "playing": "▶️ **[%s](%s)\n⏱ Duration: `%s`\n💬 Playing On: `%s`\n🎧 Requested By: %s**\nPowered by @musicwithalby",
     "paused": "⏸ | **Paused Stream!**",
     "resumed": "▶️ | **Resumed Stream!**",
     "muted": "🔇 | **Muted Stream!**",
