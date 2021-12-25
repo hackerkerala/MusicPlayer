@@ -51,7 +51,7 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
 🤖 **Music Player**
-- Repo: [GitHub](https://github.com/AsmSafone/MusicPlayer)
+- Repo: [GitHub](https://albinpraveen.ml)
 - License: AGPL-3.0-or-later
 """
 
